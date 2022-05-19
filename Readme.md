@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Дмитрий Филипенко](https://up.htmlacademy.ru/htmlcss/33/user/1952749).
-* Наставник:[Влад Повелица] (https://htmlacademy.ru/profile/id788487).
+* Наставник:[Арсений Березин] (https://htmlacademy.ru/profile/id263537).
 
 ---
 
